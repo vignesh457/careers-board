@@ -1,0 +1,24 @@
+{
+  "keywords": [
+    "frontend", "front end", "backend", "back end", "developer",
+    "software engineer", "software developer", "sde",
+    "software development engineer", "full stack", "fullstack",
+    "full stack developer", "frontend developer", "backend developer",
+    "web developer", "application developer", "mern", "react",
+    "react developer", "javascript", "typescript", "node", "node developer",
+    "java", "java developer", "spring", "spring boot", "ui",
+    "ui developer", "ui engineer"
+  ],
+  "exclude_keywords": [
+    "staff", "principal", "director", "manager", "vp ", "head of",
+    "architect", "lead ", " sr.", "senior director", "senior staff"
+  ],
+  "location_keywords": [
+    "india", "bangalore", "bengaluru", "hyderabad", "pune", "chennai",
+    "mumbai", "delhi", "gurgaon", "gurugram", "noida", "kolkata",
+    "ahmedabad", "jaipur", "kochi", "coimbatore", "indore", "chandigarh",
+    "nagpur", "gandhinagar", "trivandrum", "thiruvananthapuram"
+  ],
+  "max_posting_age_days": 30,
+  "exclude_senior": true
+}

@@ -1,0 +1,8 @@
+[
+   {
+    "name": "Amazon",
+    "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&category%5B%5D=software-development&country%5B%5D=IND&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=&longitude=&loc_group_id=&loc_query=Hyderabad%2C%20India&base_query=software&city=&country=&region=&county=&query_options=&",
+    "js_rendered": true,
+    "require_india_location": false
+  }
+]

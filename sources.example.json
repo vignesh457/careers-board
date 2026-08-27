@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Example Static Career Page",
+    "url": "https://example.com/careers",
+    "require_india_location": false
+  },
+  {
+    "name": "Example JS-Rendered Career Page",
+    "url": "https://example.com/jobs",
+    "js_rendered": true,
+    "wait_selector": ".job-listing",
+    "require_india_location": true
+  }, 
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.jobs/en/search?base_query=software&loc_query=Hyderabad%2C+India",
+    "js_rendered": true,
+    "require_india_location": false
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://apply.careers.microsoft.com/careers?hl=en&start=0&location=Hyderabad%2C+TS%2C+India&pid=1970393556972828&sort_by=distance&filter_distance=160&filter_include_remote=1&filter_include_relocation=0&filter_career_discipline=Software+Engineering",
+    "js_rendered": true,
+    "require_india_location": false
+  }, 
+  {
+    "name": "Adobe",
+    "url": "https://careers.adobe.com/us/en/c/engineering-and-product-jobs",
+    "js_rendered": true,
+    "require_india_location": false
+  }
+]

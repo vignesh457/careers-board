@@ -1,0 +1,10 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Optional — only needed if any entry in sources.json sets
+# "js_rendered": true (career pages that build their listings with
+# JavaScript, which plain requests can't see). Uncomment if you need it:
+# playwright>=1.45.0
+# Then also run once: playwright install --with-deps chromium
+# (and add that same command as a step in .github/workflows/scraper.yml —
+# see README.md for the exact snippet)
