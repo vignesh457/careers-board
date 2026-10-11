@@ -1,6 +1,6 @@
 # Career Page Job Board
 
-_Last updated: 2026-10-10 11:18 UTC — 0 open matching roles_
+_Last updated: 2026-10-11 11:32 UTC — 0 open matching roles_
 
 Tick a box after you apply — your progress is preserved across runs.
 
